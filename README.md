@@ -4,4 +4,5 @@
 
 <h3>About Me</h3>
 &#128187; An Aspiring Software Engineer who loves creating new things <br>
+&#127979; Studying CompSci @ Wilfrid Laurier University <br>
 
