@@ -5,5 +5,5 @@
 <h3>About Me</h3>
 &#128187; An Aspiring Software Engineer who loves creating new things <br>
 &#127979; Studying CompSci @ Wilfrid Laurier University <br>
-&#128229; Reach me @ Faizaan.a.delvi@gmail.com
+&#128229; Reach me at Faizaan.a.delvi@gmail.com
 
