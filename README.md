@@ -3,4 +3,5 @@
 </div>
 
 <h3>About Me</h3>
-&#128187; 
+&#128187; An Aspiring Software Engineer who loves creating new things <br>
+
