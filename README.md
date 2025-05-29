@@ -2,10 +2,12 @@
   <img src="FaizaanDelvi.Banner (1).png" alt="css-in-readme" width="100%">
 </div>
 
-<h3>About Me</h3>
+<h3>About Me
 &#128187 An Aspiring Software Engineer who loves to experiment with design <br>
 &#127979 Studying CompSci @ Wilfrid Laurier University <br>
+</h3>
 &#128229 Reach me @ Faizaan.a.delvi@gmail.com <br> 
+
 <h3>Tech Stack</h3>
 <p>
     <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
